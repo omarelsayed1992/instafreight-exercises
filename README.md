@@ -8,7 +8,7 @@
 #### Ex. 02 - r/UpliftingNews consumer :
   - Its implementation will be found in UpliftingNews.php.
   - **What further improvements would you implement?**
-      - We can use OOP to produce new as a class that will hold its attributes.
+      - We can use OOP to represent news as a class that will hold its attributes.
       - We can use pagination later.
   - **What can we do in order to reduce requests?**
       - We can use any caching system , we can cache it in DB,files or any data store.
